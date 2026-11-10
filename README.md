@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Taylor 👋
 
-<!--
-**TaylorMoed/TaylorMoed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **Prairie View A&M University** (Data Science concentration, graduating May 2027), based in Houston.
+I build full-stack web and desktop apps, from data model to deployed UI, and I like computer vision and ML projects.
 
-Here are some ideas to get you started:
+### 🛠 Tech I use
+**Languages:** TypeScript · JavaScript · Python · Java · C/C++ · SQL · Swift
+**Frameworks:** React · Node.js · Tauri · SwiftUI · Pandas · scikit-learn · OpenCV
+**Data & tools:** PostgreSQL · Supabase · REST APIs · Git · Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured projects
+- **[Kickelo](https://github.com/TaylorMoed/kickelo)** — Full-stack inventory platform for sneaker resellers with barcode + OCR scanning (React, TypeScript, Supabase, PostgreSQL)
+- **[MoFish](https://github.com/TaylorMoed/mofish)** — Computer-vision chess system that tracks a physical board and suggests moves in real time (Python, OpenCV)
+- **[Blockwise](https://github.com/TaylorMoed/blockwise)** — Cross-platform weekly time-blocking planner for desktop (Tauri, TypeScript)
+- **[Astronomical Image Classifier](https://github.com/TaylorMoed/astro-classifier)** — ML pipeline that classifies astronomical images with confidence scores (Python, scikit-learn)
+
+### 📫 Reach me
+Open to **2027 new-grad** roles in software & data engineering · [LinkedIn](https://linkedin.com/in/TaylorMoed) · taylor.moed.dev@gmail.com
