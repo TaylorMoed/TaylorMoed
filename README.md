@@ -12,7 +12,6 @@ I build full-stack web and desktop apps, from data model to deployed UI, and I l
 - **[Kickelo](https://github.com/TaylorMoed/kickelo)** — Full-stack inventory platform for sneaker resellers with barcode + OCR scanning (React, TypeScript, Supabase, PostgreSQL)
 - **[MoFish](https://github.com/TaylorMoed/mofish)** — Computer-vision chess system that tracks a physical board and suggests moves in real time (Python, OpenCV)
 - **[Blockwise](https://github.com/TaylorMoed/blockwise)** — Cross-platform weekly time-blocking planner for desktop (Tauri, TypeScript)
-- **[Astronomical Image Classifier](https://github.com/TaylorMoed/astro-classifier)** — ML pipeline that classifies astronomical images with confidence scores (Python, scikit-learn)
 
 ### 📫 Reach me
 Open to **2027 new-grad** roles in software & data engineering · [LinkedIn](https://linkedin.com/in/TaylorMoed) · taylor.moed.dev@gmail.com
